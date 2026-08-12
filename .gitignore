@@ -3,8 +3,6 @@ venv/
 __pycache__/
 *.pyc
 
-# Model Weights
-weights/
 
 # Datasets (Too large for GitHub)
 datasets/
